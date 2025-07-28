@@ -30,7 +30,7 @@ const tutors = [
     students: 47,
     price: 700,
     achievement: "Преподает в школе с 17 лет",
-    image: "/images/tutors/ksumain.jpeg",
+    image: "/images/tutors/ksumain.png",
     badge: "ИГУ",
     location: "Иркутск",
     groupPrice: 500,
