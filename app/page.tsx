@@ -254,7 +254,7 @@ export default function HomePage() {
           <div className="container mx-auto px-4">
             <div className="text-center mb-16">
               <h2 className="text-4xl md:text-5xl font-bold mb-4 text-slate-800">
-                Наши <span className="text-brand-pink-bright">опытные</span> репетиторы
+                ЛОЛ <span className="text-brand-pink-bright">опытные</span> репетиторы
               </h2>
               <p className="text-xl text-gray-600 max-w-2xl mx-auto">
                 Каждый преподаватель работает индивидуально с учениками, создавая персональную программу обучения
