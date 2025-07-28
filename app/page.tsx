@@ -71,7 +71,7 @@ const tutors = [
     students: 15,
     price: 800,
     achievement: "Сдала оксфордский тест на В2-С1",
-    image: "/images/tutors/ford.jpg",
+    image: "/images/tutors/ksenia2.jpg",
     badge: "ТГУ",
     location: "Томск",
   },
