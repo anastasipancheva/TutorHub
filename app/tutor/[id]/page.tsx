@@ -754,8 +754,8 @@ const tutorData: Record<number, TutorData> = {
     ],
     gallery: [
       "/images/tutors/akob.jpg",
-      "/images/tutors/akob2.jpg",
-      "/images/tutors/akob3.jpg",
+      "https://i.postimg.cc/vTSGz62q/akob2.jpg",
+      "https://i.postimg.cc/SN3yYCMj/akob3.jpg",
       "/images/tutors/akob4.jpg",
       "/images/tutors/akob5.jpg",
       "/images/tutors/akobege.jpg",
@@ -912,7 +912,7 @@ const tutorData: Record<number, TutorData> = {
       { day: "Суббота", time: "10:00 - 18:00" },
       { day: "Воскресенье", time: "10:00 - 18:00" },
     ],
-    gallery: ["/images/tutors/yl.jpg", "/images/tutors/yl2.jpg", "/images/tutors/yl3.png", "/images/tutors/yl4.jpg"],
+    gallery: ["/images/tutors/yl.jpg", "https://i.postimg.cc/kggpCp4b/yl2.jpg", "https://i.postimg.cc/t4J2wnSd/yl3.jpg", "https://i.postimg.cc/1XyKH8Vq/yl4.jpg"],
     reviews: [
       {
         id: 1,
