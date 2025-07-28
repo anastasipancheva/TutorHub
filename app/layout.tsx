@@ -7,18 +7,23 @@ import { cn } from "@/lib/utils"
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" })
 
 export const metadata: Metadata = {
-  title: "TutorHub - Найди своего репетитора",
-  description: "Ассоциация лучших репетиторов для индивидуального обучения",
+    title: "TutorHub - Найди своего репетитора",
+    description: "Ассоциация лучших репетиторов для индивидуального обучения",
 }
 
 export default function RootLayout({
-                                     children,
+                                       children,
                                    }: Readonly<{
-  children: React.ReactNode
+    children: React.ReactNode
 }>) {
-  return (
-      <html lang="ru" suppressHydrationWarning>
-      <body className={cn("min-h-screen bg-background font-sans antialiased", inter.variable)}>{children}</body>
-      </html>
-  )
+    return (
+        <html lang="ru" suppressHydrationWarning>
+        <head>
+            <link rel="icon" href="/images/rew/favicon.png" />
+        </head>
+        <body className={cn("min-h-screen bg-background font-sans antialiased", inter.variable)}>
+        {children}
+        </body>
+        </html>
+    )
 }
