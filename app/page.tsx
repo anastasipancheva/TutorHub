@@ -129,6 +129,19 @@ const tutors = [
     badge: "Поступление БВИ",
     location: "Томск",
   },
+  {
+    id: 10,
+    name: "Григорьева София",
+    subject: "Французский язык",
+    university: "-",
+    rating: 4.9,
+    students: 40,
+    price: 900,
+    achievement: "Сертифицированный уровень B2",
+    image: "/images/tutors/sofi.jpg",
+    badge: "Сертифицированный уровень B2",
+    location: "Москва",
+  },
 ]
 
 const courses = [

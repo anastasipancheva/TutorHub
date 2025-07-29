@@ -47,7 +47,7 @@ const tutors = [
     students: 47,
     price: 700,
     achievement: "Преподает в школе с 17 лет",
-    image: "/images/tutors/ksumain.jpeg",
+    image: "/images/tutors/ksumain.png",
     badge: "ИГУ",
     location: "Иркутск",
     reviews: 32,
@@ -161,6 +161,21 @@ const tutors = [
     location: "Томск",
     reviews: 5,
     online: false,
+  },
+  {
+    id: 10,
+    name: "Григорьева София",
+    subject: "Французский язык",
+    university: "-",
+    rating: 4.9,
+    students: 40,
+    price: 900,
+    achievement: "Сертифицированный уровень B2",
+    image: "/images/tutors/sofi.jpg",
+    badge: "Сертифицированный уровень B2",
+    location: "Москва",
+    online: false,
+
   },
 ]
 
