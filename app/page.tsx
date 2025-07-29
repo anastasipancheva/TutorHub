@@ -406,7 +406,7 @@ export default function HomePage() {
                       </div>
                       <div className="flex flex-col gap-2">
                         <Button className="bg-brand-pink-bright hover:bg-brand-pink-pastel text-white">Купить</Button>
-                        <Link href={`/course/${course.id}`}>
+                        <Link href={`/courses/${course.id}`}>
                           <Button
                               variant="outline"
                               className="w-full border-brand-blue-bright text-brand-blue-bright hover:bg-brand-blue-bright hover:text-white bg-transparent"
